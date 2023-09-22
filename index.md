@@ -10,7 +10,9 @@
 print("Hello World")
 ```
 
-
+- [ ] This a checklist
+- [X] this item is completed
+- [ ] this item is not completed
 
 
 
